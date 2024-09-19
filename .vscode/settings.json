@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "doffn",
+            "database": "Doffn",
+            "username": "Doffn",
+            "password": ""
+        }
+    ],
+    "dataworkspace.excludedProjects": [
+        "nm/nm.sqlproj",
+        "src/data/Telecom/Telecom.sqlproj"
+    ]
+    
+}
